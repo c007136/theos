@@ -1,0 +1,9 @@
+Package: com.muyu.iosregrettings
+Name: iOSREGrettings
+Depends: mobilesubstrate,firmware (>= 8.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: muyu tweak!
+Maintainer: Muyu
+Author: muyu
+Section: Tweaks
